@@ -31,10 +31,10 @@ A professional and responsive landing page showcasing business consulting servic
 ## 🚀 Future Enhancements
 - Add JavaScript for dynamic form validation.
 - Implement scroll-based animations for interactive transitions.
-- Integrate backend services for form submissions (using Firebase or Node.js).
+- Integrate backend services for form submissions (using Firebase).
 
 ## 📅 Author
-- **Developed by:** [Your Name]
+- **Developed by:** [Ashish Batham]
 
 ## 💡 How to Use
 1. Clone the repository.
